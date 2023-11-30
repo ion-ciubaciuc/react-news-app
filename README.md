@@ -1,14 +1,10 @@
-# Your App Name
-
-Welcome to [Your App Name]! This repository contains a Dockerized setup for running the [Your App Name] app.
-
-## Prerequisites
+### Prerequisites
 
 Before you begin, ensure you have the following installed:
 
 - Docker: [Get Docker](https://docs.docker.com/get-docker/)
 
-## Getting Started
+### Getting Started
 
 Follow these steps to get the app up and running:
 
@@ -31,7 +27,7 @@ Follow these steps to get the app up and running:
 
    Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to view the app.
 
-## Stopping the App
+### Stopping the App
 
 To stop the app and remove the Docker containers, run:
 
